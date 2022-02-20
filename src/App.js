@@ -147,6 +147,7 @@ const themeToggler = () => {
       
         <button onClick={() => themeToggler()} type="button" class="glow-on-hover"  >Dark Theme</button> {' '}
       </StyledApp>
+      
       </ThemeProvider>
 
       
